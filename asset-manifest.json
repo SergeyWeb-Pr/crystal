@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/crystal/static/css/main.7a48b0e7.css",
+    "main.js": "/crystal/static/js/main.13d7e392.js",
+    "static/media/shopping-cart.svg": "/crystal/static/media/shopping-cart.a3e66cdf813d9f0ce67823efc3fac15e.svg",
+    "index.html": "/crystal/index.html",
+    "static/media/user.svg": "/crystal/static/media/user.bf825363e898a575c29c0dbe0f053e9b.svg",
+    "static/media/menu-burger.svg": "/crystal/static/media/menu-burger.abba91648c15a7f1d5fb1c4fbebfbe16.svg",
+    "static/media/arrow-down.svg": "/crystal/static/media/arrow-down.3a6100e45c3429f66ff3.svg",
+    "main.7a48b0e7.css.map": "/crystal/static/css/main.7a48b0e7.css.map",
+    "main.13d7e392.js.map": "/crystal/static/js/main.13d7e392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a48b0e7.css",
+    "static/js/main.13d7e392.js"
+  ]
+}
