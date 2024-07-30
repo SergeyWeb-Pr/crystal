@@ -9,7 +9,7 @@ const Sort = () => {
 
     const onClickLabels = (index) => {
         setSelected(index);
-        setShow(false);
+        setShow(false); 
     }
 
     return (
