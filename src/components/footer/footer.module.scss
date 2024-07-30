@@ -1,0 +1,39 @@
+.footer {
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 30px;
+}
+
+.copy,
+.policy,
+.tel {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.34;
+    transition: opacity 0.2s ease-in-out;
+
+    &:not(.copy) {
+        &:hover {
+            opacity: 1;
+        }
+    }
+}
+
+.policy {
+    text-decoration-line: underline;
+}
+
+.tel {
+    margin-left: auto;
+}

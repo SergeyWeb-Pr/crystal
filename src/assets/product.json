@@ -1,0 +1,211 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "products/product1.jpg",
+        "title": "Карамельно-медовый",
+        "description": "",
+        "price": 550,
+        "weight": 700,
+        "calories": 220,
+        "category": 0,
+        "rating": 7
+    },
+    {
+        "id": 1,
+        "imageUrl": "products/product2.jpg",
+        "title": "Карамельный",
+        "description": "",
+        "price": 550,
+        "weight": 800,
+        "calories": 220,
+        "category": 0,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "imageUrl": "products/product3.jpg",
+        "title": "Прага вечерняя",
+        "description": "",
+        "price": 550,
+        "weight": 850,
+        "calories": 220,
+        "category": 0,
+        "rating": 8
+    },
+    {
+        "id": 3,
+        "imageUrl": "products/product4.jpg",
+        "title": "Бисквитно-кремовый",
+        "description": "",
+        "price": 650,
+        "weight": 800,
+        "calories": 220,
+        "category": 0,
+        "rating": 9
+    },
+    {
+        "id": 4,
+        "imageUrl": "products/product5.jpg",
+        "title": "Шоколадно-банановый",
+        "description": "",
+        "price": 600,
+        "weight": 950,
+        "calories": 220,
+        "category": 0,
+        "rating": 10
+    },
+    {
+        "id": 5,
+        "imageUrl": "products/product6.jpg",
+        "title": "С Любовью!",
+        "description": "Бисквитный торт с клубничным джемом и взбитыми сливками",
+        "price": 680,
+        "weight": 1000,
+        "calories": 220,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "imageUrl": "products/product7.jpg",
+        "title": "Торт «Вечерняя Прага»",
+        "description": "Шоколадный бисквит с заварным кремом на сливочном масле. Покрыт шоколадом",
+        "price": 1000,
+        "weight": 1000,
+        "calories": 220,
+        "category": 0,
+        "rating": 6
+    },
+    {
+        "id": 7,
+        "imageUrl": "products/product8.jpg",
+        "title": "Торт «Наполеон люкс»",
+        "description": "Хрустящие слоеные коржи прослоены ванильным заварным кремом на сливочном масле",
+        "price": 1000,
+        "weight": 1000,
+        "calories": 220,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 8,
+        "imageUrl": "products/product9.jpg",
+        "title": "Шу",
+        "description": "",
+        "price": 100,
+        "weight": 70,
+        "calories": 220,
+        "category": 1,
+        "rating": 7
+    },
+    {
+        "id": 9,
+        "imageUrl": "products/product10.jpg",
+        "title": "Творожно-вишневое",
+        "description": "",
+        "price": 99,
+        "weight": 130,
+        "calories": 220,
+        "category": 1,
+        "rating": 8
+    },
+    {
+        "id": 10,
+        "imageUrl": "products/product11.jpg",
+        "title": "Сникерс",
+        "description": "",
+        "price": 200,
+        "weight": 100,
+        "calories": 220,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 11,
+        "imageUrl": "products/product12.jpg",
+        "title": "Миндальное",
+        "description": "",
+        "price": 200,
+        "weight": 110,
+        "calories": 220,
+        "category": 1,
+        "rating": 8
+    },
+    {
+        "id": 12,
+        "imageUrl": "products/product13.jpg",
+        "title": "Хот-дог",
+        "description": "Сэндвич с жареной сосиской и капустой. Остроту вкуса ему придают зелень, кетчуп и майонез.",
+        "price": 59,
+        "weight": 170,
+        "calories": 220,
+        "category": 2,
+        "rating": 9
+    },
+    {
+        "id": 13,
+        "imageUrl": "products/product14.jpg",
+        "title": "Бургер",
+        "description": "Аппетитный сэндвич с котлетой, капустой, огурцом и сыром . Обогащают вкус бургера острый кетчуп и майонез.",
+        "price": 80,
+        "weight": 250,
+        "calories": 220,
+        "category": 2,
+        "rating": 10
+    },
+    {
+        "id": 14,
+        "imageUrl": "products/product15.jpg",
+        "title": "Пиде",
+        "description": "",
+        "price": 100,
+        "weight": 120,
+        "calories": 220,
+        "category": 2,
+        "rating": 9
+    },
+    {
+        "id": 15,
+        "imageUrl": "products/product16.jpg",
+        "title": "Самса",
+        "description": "Самса из слоеного теста с натуральным рубленым мясом, луком и специями.",
+        "price": 75,
+        "weight": 120,
+        "calories": 220,
+        "category": 2,
+        "rating": 7
+    },
+    {
+        "id": 16,
+        "imageUrl": "products/product17.jpg",
+        "title": "Пасхальный пряник (кролик)",
+        "description": "",
+        "price": 104,
+        "weight": 100,
+        "calories": 220,
+        "category": 3,
+        "rating": 8
+    },
+    {
+        "id": 17,
+        "imageUrl": "products/product18.jpg",
+        "title": "Пасхальные пряники (яйца)",
+        "description": "",
+        "price": 85,
+        "weight": 100,
+        "calories": 220,
+        "category": 3,
+        "rating": 9
+    },
+    {
+        "id": 18,
+        "imageUrl": "products/product19.jpg",
+        "title": "Имбирное печенье",
+        "description": "",
+        "price": 50,
+        "weight": 100,
+        "calories": 220,
+        "category": 3,
+        "rating": 10
+    }
+]
